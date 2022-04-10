@@ -6,7 +6,8 @@ Time Of The Day is a simple exercise with javascript that shows the user how tim
 
 <br>
   
-![TimeOfTheDay](https://user-images.githubusercontent.com/54919378/162603716-6e3512f9-748b-4ff1-9c2d-ffe2092aff12.png)
+  ![TimeOfTheDay](https://user-images.githubusercontent.com/54919378/162604225-5646b8ff-47dd-4628-ae81-89eb8a059ed4.jpg)
+
 </div>
 
 ## 💻 Technologies
