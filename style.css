@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+    font: normal 15pt Arial;
+    text-align: center;
+    color: white;
+}
+section{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding: 25px;
+    width: 50%;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0 ,0.363);
+}
+footer{
+    font-style: italic;
+}
+#picture{
+    width: 40%;
+}
+#image{
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 700px) {
+    #picture{
+        width: 100%;
+    }
+    section{
+        width: 70%;
+    }
+}
