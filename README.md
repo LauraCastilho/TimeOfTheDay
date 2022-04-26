@@ -17,3 +17,6 @@ Time Of The Day is a simple exercise with javascript that shows the user how tim
 - Photoshop
 - Visual Studio Code
 
+
+---
+Made with ❤️ by Laura Castilho 👋 [Talk to me!](https://www.linkedin.com/in/laura-castilho-a7a0b21b9/)
